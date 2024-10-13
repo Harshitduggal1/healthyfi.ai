@@ -1,6 +1,4 @@
-Sure! I've added the `git clone` command with the appropriate format to the README. Here’s the updated version:
 
-```markdown
 # healthyfi.ai 🤖🩺
 **AI Health Checker Platform**
 
@@ -89,4 +87,4 @@ For any inquiries or feedback, please reach out:
 Thank you for visiting our project! We hope you find it helpful and informative in your journey to better health! 😊
 ```
 
-Feel free to further modify it as needed! Let me know if you need any more changes or additional information!
+
